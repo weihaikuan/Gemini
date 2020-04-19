@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\CopyEA] 
+@="¸´ÖÆEA´úÂë" 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\Folder\shell\CopyEA\command] 
+@="cmd.exe /c C:\EA\CopyEA.bat" 

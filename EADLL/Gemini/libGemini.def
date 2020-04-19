@@ -1,0 +1,17 @@
+EXPORTS
+    AddConfig = AddConfig@80 @1
+    AddConfig@80 @2
+    AddIndicator = AddIndicator@4 @3
+    AddIndicator@4 @4
+    AddOrder = AddOrder@56 @5
+    AddOrder@56 @6
+    CleanOrder = CleanOrder@4 @7
+    CleanOrder@4 @8
+    DeInit = DeInit@0 @9
+    DeInit@0 @10
+    GetCommands = GetCommands@12 @11
+    GetCommands@12 @12
+    GetStringValue = GetStringValue@4 @13
+    GetStringValue@4 @14
+    Init = Init@0 @15
+    Init@0 @16
